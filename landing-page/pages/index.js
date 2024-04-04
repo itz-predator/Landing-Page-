@@ -13,10 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to <a href="https://github.com/itz-predator">My Page!</a>
         </h1>
-
-
-
-        <div className={styles.grid}>
+<div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
