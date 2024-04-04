@@ -1,2 +1,2 @@
 # Landing-Page-
-creating landing page for test use
+created next.js landing page for test use
